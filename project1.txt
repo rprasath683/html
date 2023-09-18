@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Events</title>
+    <link rel="icon" href="images/date.png">
+</head>
+<body style="color: white;background-color: black;">
+    <div>
+    <center>
+   <h1>Upcoming Events📅</h1> 
+   <p>Don't Miss any of your important events. Here are the important events you have registered for !</p>
+</center>
+<hr>
+</div>
+<p>
+ Lorem ipsum dolor sit amet, consectetur adipisicing elit. In praesentium reprehenderit excepturi repellat eos autem? Ex omnis quidem nisi inventore nam, molestiae ad. Dolorum similique alias voluptate rerum, tempore consequuntur. Earum sequi voluptatibus libero maiores quaerat tenetur rerum, praesentium veniam cupiditate. Nam deserunt soluta dolorem necessitatibus ratione sequi accusamus commodi perferendis nemo, qui rem magnam. Autem ab perferendis ullam velit. Nobis expedita illum possimus voluptatum commodi dolorum iste, distinctio similique ipsum numquam sed iusto architecto accusamus rem quos consequatur magni voluptate beatae. Quae minima nam quis aliquid molestias voluptatum amet iste. Totam voluptatibus quos itaque perferendis nemo, laboriosam obcaecati unde.
+    </p>
+<div>
+    <center>
+        <img src="images/event1.png" alt="demo">
+        <h1>Photo Gallery Event</h1>
+        <h2>Free Entry | Free Food | Pets are Not Allowed</h2>
+        <p>
+            The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+        </p>
+
+    </center>
+</div>
+    
+<div>
+    <center>
+        <img src="images/event2.png" alt="demo">
+        <a href="https://www.myntra.com/"><h2>Fashion Store</h2></a>
+        <h2>Free Entry | Free Food | Pets are Not Allowed</h2>
+        <p>
+            The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+        </p>
+    </center>
+</div>
+<hr>
+<footer>
+    <center>
+        <h2>Contact</h2>
+        <h3>+91 787483783743 | eventcollab@gmail.com</h3>
+        <p>9th street Avenue Park, Trichy, 625620</p>
+
+    </center>
+</footer>
+
+</body>
+</html>
